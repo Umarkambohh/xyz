@@ -1,0 +1,5 @@
+// scss-docs-start form-file-variables
+$form-file-button-color: $input-color !default;
+$form-file-button-bg: var(--#{$prefix}tertiary-bg) !default;
+$form-file-button-hover-bg: var(--#{$prefix}secondary-bg) !default;
+// scss-docs-end form-file-variables
